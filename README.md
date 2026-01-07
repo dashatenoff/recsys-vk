@@ -1,3 +1,6 @@
-# VK RecSys HW-1
+### RecSys (VK-LSVD)
 
-Baseline and collaborative filtering models for video recommendation.
+- TopPop baseline (implicit feedback)
+- Implemented in Google Colab
+- Submission generation logic
+
